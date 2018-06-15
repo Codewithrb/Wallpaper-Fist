@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Trending"
+        android:icon="@drawable/trending_icon"
+        android:title="@string/Trending" />
+
+    <item
+        android:id="@+id/Explore"
+        android:icon="@drawable/explore_icon"
+        android:title="@string/Explore" />
+
+    <item
+        android:id="@+id/Favourite"
+        android:icon="@drawable/favi_icon"
+        android:title="@string/Favourite" />
+
+    <item
+        android:id="@+id/Settings"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/Settings" />
+
+</menu>
